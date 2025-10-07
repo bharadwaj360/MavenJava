@@ -60,7 +60,7 @@ public class App {
                     continue;
             }
             System.out.println("Result: " + result);
-              System.out.println("Result:");
+            System.out.println("Result");
         }
         sc.close();
     }
